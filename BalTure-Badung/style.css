@@ -1,0 +1,34 @@
+.badung {
+  /* position: relative; */
+  /* text-align: center; */
+  font-size: 30px;
+  background: url(hasil-asset/badung_backdrop.jpg);
+  width: 100%;
+  height: 800px;
+  display: flex;
+  /* justify-content: center; */
+}
+
+.BADUNG {
+  margin-top: 10%;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+  background-color: #04364a;
+}
+.navbar-brand {
+  color: #64ccc5;
+}
+.penjelasan {
+  padding: 100px;
+  position: relative;
+  margin-left: 50px;
+  margin-right: 800px;
+  background-color: #176b87;
+}
+.body {
+  background: #04364a;
+}
+.nav-link {
+  color: black;
+}
